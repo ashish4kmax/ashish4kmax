@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashish4kmax
+- 👋 Hi, I’m Ashish Kumar Sahoo
 - 👀 I’m interested in Web and Game Development 
 - 🌱 I’m currently learning DSA
 
