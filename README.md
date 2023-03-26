@@ -35,8 +35,8 @@
 <a href="https://github.com/ashish4kmax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashish4kmax&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish4kmax&theme=buefy&layout=compact" />
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ashish4kmax&theme=city_light&hide_border=false)<br/>
 </a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashish4kmax&theme=city_light&hide_border=false)<br/>
 
 <br/>
 
