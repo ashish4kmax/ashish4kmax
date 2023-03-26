@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and quick hacks.
 - 🎓 &nbsp; Studying Information Science and Engineering at BMSIT.
 - 🌱 &nbsp; Learning more about Web Devlopment and DSA.
 - ✍️ &nbsp; Making something new out of DSA and Web as hobbies/side hustles.
