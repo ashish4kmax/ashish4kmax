@@ -50,9 +50,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-kumar-sahoo-260643229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ashish_kr_4k/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ashish10112093@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ashish-kumar-sahoo-260643229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar%20Sahoo-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/ashish_kr_4k/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ashish_kr_4k__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:ashish10112093@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashish10112093@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [ashish4kmax](https://github.com/ashish4kmax)
