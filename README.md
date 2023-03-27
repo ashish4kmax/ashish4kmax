@@ -41,7 +41,6 @@
 
 <br/>
 
-[![Ashish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashish4kmax)](https://github.com/ashish4kmax/github-readme-activity-graph)
 [![Ashish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashish4kmax&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
