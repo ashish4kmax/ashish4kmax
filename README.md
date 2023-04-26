@@ -31,7 +31,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish4kmax" alt="ashish4kmax" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=ashish4kmax&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
 
