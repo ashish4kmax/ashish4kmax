@@ -33,6 +33,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish4kmax" alt="ashish4kmax" /></a> </p>
 
+# 📊 GitHub Stats:
+
 <a href="https://github.com/ashish4kmax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashish4kmax&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish4kmax&theme=buefy&layout=compact" />
@@ -41,7 +43,7 @@
 
 
 <br/>
-# 📊 GitHub Stats:
+
 
 [![Ashish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashish4kmax&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
