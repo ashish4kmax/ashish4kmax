@@ -27,8 +27,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
-# 📊 GitHub Stats:
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish4kmax&label=Profile%20views&color=0e75b6&style=flat" alt="ashish4kmax" /> </p>
 
 ## 🏆 GitHub Trophies
@@ -43,6 +41,7 @@
 
 
 <br/>
+# 📊 GitHub Stats:
 
 [![Ashish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashish4kmax&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
