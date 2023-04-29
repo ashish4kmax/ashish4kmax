@@ -60,3 +60,5 @@
 ⭐️ From [ashish4kmax](https://github.com/ashish4kmax)
 
 <img src="https://t.bkit.co/w_642c591f557f7.gif" />
+
+![](https://readme-now-playing.vercel.app/now-playing/q?uid=31aljbyzewxmpom3ykcqoryyrc3m)
