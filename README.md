@@ -61,4 +61,4 @@
 
 <img src="https://t.bkit.co/w_642c591f557f7.gif" />
 
-![](https://readme-now-playing.vercel.app/now-playing/q?uid=31aljbyzewxmpom3ykcqoryyrc3m)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aljbyzewxmpom3ykcqoryyrc3m&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31aljbyzewxmpom3ykcqoryyrc3m&redirect=true)
