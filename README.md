@@ -60,5 +60,3 @@
 ⭐️ From [ashish4kmax](https://github.com/ashish4kmax)
 
 <img src="https://t.bkit.co/w_642c591f557f7.gif" />
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=	31aljbyzewxmpom3ykcqoryyrc3m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/ashish4kmax/spotify-github-profile)
