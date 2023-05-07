@@ -27,7 +27,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish4kmax&label=Profile%20views&color=0e75b6&style=flat" alt="ashish4kmax" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ashish4kmax&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 
