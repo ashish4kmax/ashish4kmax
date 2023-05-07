@@ -28,7 +28,7 @@
 
 <br/>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ashish4kmax&label=Profile%20Views&color=3&icon=5&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=ashish4kmax&label=Profile%20Views&color=3&pretty=false" />
 </a>
 
 ## 🏆 GitHub Trophies
