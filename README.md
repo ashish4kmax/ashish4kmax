@@ -27,7 +27,9 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
-[![](https://visitcount.itsvg.in/api?id=ashish4kmax&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ashish4kmax&label=Profile%20Views&color=3&icon=5&pretty=false" />
+</a>
 
 ## 🏆 GitHub Trophies
 
