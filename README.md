@@ -63,8 +63,8 @@
 
 <img src="https://t.bkit.co/w_642c591f557f7.gif" />
 
-<div style="width: 100%;">
+<!-- <div style="width: 100%;">
   <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
     <img src="current.svg" style="width: 100%;" alt="Click to see the source">
   </a>
-</div>
+</div> -->
