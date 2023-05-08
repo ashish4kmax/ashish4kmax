@@ -2,38 +2,40 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-       div {
-        margin: 0;
-        padding: 0;
-        display: flex;
-        height: 100vh;
-        justify-content: center;
-        align-items: center;
-        background-color: #000;
-        font-family: sans-serif;
-    }
- 
-    a {
-        padding: 20px 20px;
-        display: inline-block;
-        color: #008000;
-        letter-spacing: 2px;
-        text-transform: uppercase;
-        text-decoration: none;
-        font-size: 3em;
-        overflow: hidden;
-    }
- 
-    a:hover {
-        color: #111;
-        background: #39ff14;
-        box-shadow: 0 0 50px #39ff14;
-    }
+	body {
+		margin: 0;
+		padding: 0;
+		display: flex;
+		height: 100vh;
+		justify-content: center;
+		align-items: center;
+		background-color: #000;
+		font-family: sans-serif;
+	}
+  
+	a {
+		padding: 20px 20px;
+		display: inline-block;
+		color: #008000;
+		letter-spacing: 2px;
+		text-transform: uppercase;
+		text-decoration: none;
+		font-size: 3em;
+		overflow: hidden;
+	}
+  
+	a:hover {
+		color: #111;
+		background: #39ff14;
+		box-shadow: 0 0 50px #39ff14;
+	}
 </style>
 
-      <div class="container">
-        <a>Click here to know what I am currently doing</a>
-      </div>
+</style>
+
+      <body>
+        <a>GeeksForGeeks</a>
+      </body>
     </div>
   </foreignObject>
 </svg>
