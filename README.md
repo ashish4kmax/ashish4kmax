@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Ashish.</h2>
+<h1> Hey there! I'm Ashish. 👋</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -46,6 +46,7 @@
 
 <br/>
 
+# Contributions Graph📈
 
 [![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish4kmax&theme=github-compact)](https://github.com/ashish4kmax/github-readme-activity-graph)
 
