@@ -37,11 +37,7 @@
 
 # 📊 GitHub Stats:
 
-<a href="https://github.com/ashish4kmax">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashish4kmax&theme=algolia&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish4kmax&theme=algolia&layout=compact" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish4kmax&theme=algolia&hide_border=false" />
-</a>
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish4kmax&show_icons=true&theme=transparent)
 
 
 <br/>
