@@ -33,7 +33,7 @@
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=prashant744&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ashish4kmax&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
 
