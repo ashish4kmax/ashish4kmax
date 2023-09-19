@@ -1,4 +1,4 @@
-![ASHISH KUMAR SAHOO](https://github.com/ashish4kmax/ashish4kmax/assets/111702590/708b08ae-dace-4837-838e-c16b91fbe7d1)
+![ASHISH KUMAR SAHOO](https://github.com/ashish4kmax/ashish4kmax/assets/111702590/09bb4c3e-e232-41aa-8b7a-6879427183f0)
 <h1> Hey there! I'm Ashish. 👋</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
