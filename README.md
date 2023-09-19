@@ -1,8 +1,8 @@
 ![ASHISH KUMAR SAHOO](https://github.com/ashish4kmax/ashish4kmax/assets/111702590/09bb4c3e-e232-41aa-8b7a-6879427183f0)
 <center>
-<h1> Hey there! I'm Ashish. <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4></h1>
+<h1 style="text-align: center;"> Hey there! I'm Ashish. <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4></h1>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2 style="text-align: center;"> 👨🏻‍💻 &nbsp;About Me </h2>
 </center>
 
 - 🤔 &nbsp; Exploring new technologies and quick hacks.
@@ -11,7 +11,7 @@
 - ✍️ &nbsp; Making something new out of DSA and Web as hobbies/side hustles.
 
 <center>
-<h2> 🛠 &nbsp;Tech Stack</h3>
+<h2 style="text-align: center;"> 🛠 &nbsp;Tech Stack</h2>
 </center>
 
 - 💻 &nbsp;
@@ -35,7 +35,7 @@
 
 <center>
 
-<h2> 🏆 GitHub Trophies </h2>
+<h2 style="text-align: center;"> 🏆 GitHub Trophies </h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=ashish4kmax&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
@@ -48,13 +48,13 @@
 
 <br/>
 
-<h2> Contributions Graph📈 </h2>
+<h2 style="text-align: center;"> Contributions Graph📈 </h2>
 
 [![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish4kmax&theme=github-compact)](https://github.com/ashish4kmax/github-readme-activity-graph)
 
 <br>
 
-<h2> 🤝🏻 &nbsp;Connect with Me </h2>
+<h2 style="text-align: center;"> 🤝🏻 &nbsp;Connect with Me </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-kumar-sahoo-260643229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar%20Sahoo-blue?style=flat-square&logo=linkedin"></a>
