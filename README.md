@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Studying Information Science and Engineering at BMSIT.
 - 🌱 &nbsp; Learning more about Web Devlopment and DSA.
 - ✍️ &nbsp; Making something new out of DSA and Web as hobbies/side hustles.
-- 📑 &nbsp; link to my portfolio <a href="https://3d-portfolio-alpha-gules.vercel.app/" target="_blank">ashish 3d portfolio</a>
+- 📑 &nbsp; Link to my portfolio <a href="https://3d-portfolio-alpha-gules.vercel.app/" target="_blank">ashish 3d portfolio</a>
 
 <center>
 <h2 style="text-align: center;"> 🛠 &nbsp;Tech Stack</h2>
