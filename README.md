@@ -5,9 +5,6 @@
 <a href="https://www.instagram.com/ashish_4k_mx/" target="_blank" rel="noopener noreferrer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ashish_kr_4k_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ashish10112093@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-ashish10112093@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8710560e-358d-47da-86bc-cabc2b183768" alt="Hello Image" />
-</p>
 
 <p align="center"> 
   Visitor count<br>
@@ -18,12 +15,12 @@
   🌈Open-Source<br>
 </h2>
 
-[![An image of @ashish5kmax's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashish5kmax)](https://holopin.io/@ashish5kmax)
+[![An image of @ashish4kmax's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashish4kmax)](https://holopin.io/@ashish4kmax)
 
 <div align="center">
 <h2>💻Tech Stack</h2>
 
-[![YouTube Channel](https://img.shields.io/badge/FEEL_FREE_TO_WATCH_MY_YT_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ashish5kmax)
+[![YouTube Channel](https://img.shields.io/badge/FEEL_FREE_TO_WATCH_MY_YT_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ashish4k07)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -53,14 +50,15 @@
   <h2>⚡Stats⚡</h2>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashish5kmax&theme=dracula&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashish4kmax&theme=dracula&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 <table>
   <tr>
     <td>
 
-![Ashish Kumar Sahoo's GitHub](https://github-readme-stats.vercel.app/api?username=ashish5kmax&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
+![Ashish Kumar Sahoo's GitHub](https://github-readme-stats.vercel.app/api?username=ashish4kmax&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
     </td>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish5kmax&theme=radical&layout=pie)](https://github.com/ashish5kmax/github-readme-stats)
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish4kmax&theme=radical&layout=pie)](https://github.com/ashish4kmax/github-readme-stats)
 
 
     
@@ -68,11 +66,11 @@
 </table>
 
 
-[![Profile Markdown](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmax&repo=ashish5kmax&theme=dark)](https://github.com/ashish5kmax/ashish5kmax)
-[![Clev Calc](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmax&repo=Clev-Calc&theme=dark)](https://github.com/ashish5kmax/Clev-Calc)
+[![Profile Markdown](https://github-readme-stats.vercel.app/api/pin/?username=ashish4kmax&repo=ashish4kmax&theme=dark)](https://github.com/ashish4kmax/ashish4kmax)
+[![Clev Calc](https://github-readme-stats.vercel.app/api/pin/?username=ashish4kmax&repo=Clev-Calc&theme=dark)](https://github.com/ashish4kmax/Clev-Calc)
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=ashish5kmax&theme=highcontrast" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=ashish4kmax&theme=highcontrast" alt="GitHub Streak" />
     </a>
 </div>
 <br/>
@@ -83,9 +81,9 @@
 <div>
 <div align="center">
   <h3> Click on the animation to check out someting special</h3>
-  <a href="https://ashish5kmax.github.io/Snake-Game/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ashish5kmax/piyush97/master/charts/github-snake-dark.svg" />
+  <a href="https://ashish4kmax.github.io/Snake-Game/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ashish4kmax/piyush97/master/charts/github-snake-dark.svg" />
   </a>
 </div>
 
-⭐️ From [ashish5kmax](https://github.com/ashish5kmax)
+⭐️ From [ashish4kmax](https://github.com/ashish4kmax)
